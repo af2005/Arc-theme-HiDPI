@@ -2,17 +2,17 @@
 
 Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell. It supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, etc.
 
-###Arc is available in three variants 
+### Arc is available in three variants 
 
-#####Arc
+##### Arc
 
 ![alt tag](http://i.imgur.com/fDa94sy.png)
 
-#####Arc-Darker
+##### Arc-Darker
 
 ![alt tag](http://i.imgur.com/crDBZzD.png)
 
-#####Arc-Dark
+##### Arc-Dark
 
 ![alt tag](http://i.imgur.com/RkIVgJ2.png)
 
